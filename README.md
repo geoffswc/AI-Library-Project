@@ -18,3 +18,5 @@ A script demonstrating use of ML to search documents
 
 * [Search-Script Github](https://github.com/geoffswc/AI-Library-Project/blob/main/search-script.py)
 * [Search-Script Raw](https://raw.githubusercontent.com/geoffswc/AI-Library-Project/main/search-script.py)
+
+* [relative-link searchs script](search-script.py)
